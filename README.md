@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Tomar</h1>
-<h3 align="center">Java Backend Developer | AI/ML Enthusiast | Designed Scalable Microservices in Java & Docker | Expert in REST APIs, MySQL, Kafka, Redis, Google Cloud & AWS | Exploring AI/ML with TensorFlow, PyTorch & NLP</h3>
+<h3 align="center">Python Developer | AI/ML Enthusiast | Designed Scalable Microservices in Java & Docker | Expert in Django, REST APIs, MySQL, MongoDB, NoSQL, Kafka, Redis, Google Cloud & AWS | Exploring AI/ML with TensorFlow, PyTorch & NLP</h3>
 
-- 🔭 I’m currently working on **Multi-Modal NLP**
+- 🔭 I’m currently working on **JANA**
 
 - 🌱 I’m currently learning **Quantization of LLMs**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@arjun.tomar_41862](https://medium.com/@arjun.tomar_41862)
 
-- 💬 Ask me about **MERN, Spring Boot, DSA**
+- 💬 Ask me about **DRF, RAGs, NLP**
 
 - 📫 How to reach me **arjuntomar.work@gmail.com**
 
