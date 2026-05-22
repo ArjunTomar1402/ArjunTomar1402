@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Quantization of LLMs**
 
-- 📝 I regularly write articles on [https://medium.com/@arjun.tomar_41862](https://medium.com/@arjun.tomar_41862)
+- 📝 I regularly write articles on [Medium](https://medium.com/@arjun.tomar_41862)
 
 - 💬 Ask me about **DRF, RAGs, NLP**
 
