@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **Quantization of LLMs**
 
-- 👨‍💻 All of my projects are available at [https://arjun-folio.netlify.app/](https://arjun-folio.netlify.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@arjun.tomar_41862](https://medium.com/@arjun.tomar_41862)
 
 - 💬 Ask me about **DRF, RAGs, NLP**
 
 - 📫 How to reach me **arjuntomar.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11WYCQQg7xQGXiwyu9hI3mPziJ_39wk8_/view?usp=sharing](https://drive.google.com/file/d/11WYCQQg7xQGXiwyu9hI3mPziJ_39wk8_/view?usp=sharing)
+- 📄 Know about my experiences [Experience](https://drive.google.com/file/d/1_ZJgZCOb7jsP4-4QDxLY0kOw7127Dnls/view?usp=sharing)
 
 - ⚡ Fun fact **Built a terminal-themed personal portfolio that behaves like a Linux shell—recruiters have actually typed commands into it while reviewing my work.**
 
