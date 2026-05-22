@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Tomar</h1>
-<h3 align="center">Python Developer | AI/ML Enthusiast | Designed Scalable Microservices in Java & Docker | Expert in Django, REST APIs, MySQL, MongoDB, NoSQL, Kafka, Redis, Google Cloud & AWS | Exploring AI/ML with TensorFlow, PyTorch & NLP</h3>
+<h3 align="center">Python Developer | AI/ML Enthusiast | Designed Scalable Microservices in Java & Docker | Expert in Django, REST APIs, MySQL, MongoDB, PostGres, Kafka, Redis, Google Cloud & AWS | Exploring AI/ML with TensorFlow, PyTorch & NLP</h3>
 
 - 🔭 I’m currently working on **JANA**
 
